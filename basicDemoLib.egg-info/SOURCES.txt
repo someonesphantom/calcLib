@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+basicDemoLib/__init__.py
+basicDemoLib.egg-info/PKG-INFO
+basicDemoLib.egg-info/SOURCES.txt
+basicDemoLib.egg-info/dependency_links.txt
+basicDemoLib.egg-info/top_level.txt
